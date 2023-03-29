@@ -1,0 +1,189 @@
+27-03-2023 	 14:39:19	OPTIONS	/employee/users	http://localhost:3000
+27-03-2023 	 14:39:03	GET	/employee/stat	http://localhost:3000
+27-03-2023 	 14:39:03	GET	/employee/stat	http://localhost:3000
+27-03-2023 	 14:39:03	OPTIONS	/employee/stat	http://localhost:3000
+27-03-2023 	 14:39:02	OPTIONS	/auth/employee/login	http://localhost:3000
+27-03-2023 	 14:36:20	GET	/products	http://localhost:3000
+24-03-2023 	 17:01:57	GET	/employee/admin-products	http://localhost:3000
+24-03-2023 	 17:01:56	GET	/employee/admin-products	http://localhost:3000
+000
+24-03-2023 	 17:01:53	GET	/employee/users	http://localhost:3000
+24-03-2023 	 17:01:52	GET	/employee/admin-products	http://localhost:3000
+24-03-2023 	 17:01:52	OPTIONS	/employee/users	http://localhost:3000
+24-03-2023 	 17:01:49	OPTIONS	/employee/admin-products	http://localhost:3000
+24-03-2023 	 17:00:50	GET	/employee/users	http://localhost:3000
+24-03-2023 	 17:00:49	OPTIONS	/employee/users	http://localhost:3000
+24-03-2023 	 17:00:46	OPTIONS	/employee/admin-products	http://localhost:3000
+24-03-2023 	 17:00:39	GET	/employee/stat	http://localhost:3000
+24-03-2023 	 17:00:38	GET	/employee/stat	http://localhost:3000
+000
+24-03-2023 	 17:00:38	POST	/auth/employee/login	http://localhost:3000
+24-03-2023 	 17:00:14	GET	/products	http://localhost:3000
+24-03-2023 	 17:00:14	GET	/products	http://localhost:3000
+24-03-2023 	 17:00:12	GET	/cart/cart-history	http://localhost:3000
+24-03-2023 	 17:00:10	OPTIONS	/cart/cart-history	http://localhost:3000
+24-03-2023 	 17:00:09	GET	/order/order-history	http://localhost:3000
+24-03-2023 	 17:00:08	GET	/order/order-history	http://localhost:3000
+000
+24-03-2023 	 17:00:07	GET	/user/profile	http://localhost:3000
+24-03-2023 	 17:00:06	GET	/user/profile	http://localhost:3000
+000
+24-03-2023 	 16:59:59	POST	/order/payment	http://localhost:3000
+24-03-2023 	 16:59:55	GET	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:59:55	GET	/cart/cart-history	http://localhost:3000
+000
+24-03-2023 	 16:59:52	GET	/products	http://localhost:3000
+24-03-2023 	 16:59:52	GET	/products	http://localhost:3000
+24-03-2023 	 16:59:50	GET	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:59:50	GET	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:59:50	OPTIONS	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:59:50	OPTIONS	/order/order-place	http://localhost:3000
+24-03-2023 	 16:59:43	GET	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:59:43	GET	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:59:40	GET	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:59:40	OPTIONS	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:59:34	GET	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:59:34	GET	/products/single/641594a169499de5dae6a767	http://localhost:3000
+24-03-2023 	 16:59:34	OPTIONS	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:59:29	GET	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:59:29	POST	/cart/add-to-cart	http://localhost:3000
+24-03-2023 	 16:59:26	GET	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:59:26	GET	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:59:26	GET	/products/single/641594a169499de5dae6a767	http://localhost:3000
+24-03-2023 	 16:59:23	GET	/products	http://localhost:3000
+24-03-2023 	 16:59:23	GET	/products	http://localhost:3000
+24-03-2023 	 16:59:18	GET	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:59:17	GET	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:59:14	GET	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:59:14	GET	/cart/cart-history	http://localhost:3000
+000
+24-03-2023 	 16:59:00	GET	/order/order-history	http://localhost:3000
+24-03-2023 	 16:59:00	GET	/order/order-history	http://localhost:3000
+000
+24-03-2023 	 16:58:50	GET	/cart/cart-history	http://localhost:3000
+000
+24-03-2023 	 16:58:50	POST	/order/payment/verify	http://localhost:3000
+24-03-2023 	 16:58:21	GET	/cart/cart-history	http://localhost:3000
+000
+24-03-2023 	 16:58:20	POST	/order/payment	http://localhost:3000
+24-03-2023 	 16:58:07	GET	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:58:07	GET	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:58:04	GET	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:58:04	OPTIONS	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:57:59	GET	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:57:59	GET	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:57:57	GET	/cart/cart-history	http://localhost:3000
+000
+24-03-2023 	 16:57:57	OPTIONS	/cart/add-to-cart	http://localhost:3000
+24-03-2023 	 16:57:49	GET	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:57:49	GET	/products/single/64145ac5407921effba177b6	http://localhost:3000
+24-03-2023 	 16:57:49	GET	/products/single/64145ac5407921effba177b6	http://localhost:3000
+24-03-2023 	 16:57:46	GET	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:57:46	GET	/cart/cart-history	http://localhost:3000
+000
+24-03-2023 	 16:57:37	GET	/order/order-history	http://localhost:3000
+24-03-2023 	 16:57:37	GET	/order/order-history	http://localhost:3000
+000
+24-03-2023 	 16:57:29	GET	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:57:28	GET	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:57:24	GET	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:57:24	OPTIONS	/cart/add-to-cart	http://localhost:3000
+24-03-2023 	 16:57:21	GET	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:57:21	GET	/products/single/64145ac5407921effba177b6	http://localhost:3000
+24-03-2023 	 16:57:21	OPTIONS	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:57:18	GET	/products	http://localhost:3000
+24-03-2023 	 16:57:18	GET	/products	http://localhost:3000
+24-03-2023 	 16:57:16	GET	/user/profile	http://localhost:3000
+24-03-2023 	 16:57:16	GET	/user/profile	http://localhost:3000
+24-03-2023 	 16:57:16	OPTIONS	/user/profile	http://localhost:3000
+24-03-2023 	 16:57:11	GET	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:57:11	OPTIONS	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:57:09	GET	/order/order-history	http://localhost:3000
+24-03-2023 	 16:57:09	OPTIONS	/order/order-history	http://localhost:3000
+24-03-2023 	 16:56:55	GET	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:56:54	GET	/cart/cart-history	http://localhost:3000
+000
+24-03-2023 	 16:56:44	GET	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:56:44	GET	/products/single/64145ac5407921effba177b6	http://localhost:3000
+24-03-2023 	 16:56:44	OPTIONS	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:56:34	GET	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:56:34	GET	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:56:32	GET	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:56:32	POST	/cart/add-to-cart	http://localhost:3000
+00
+24-03-2023 	 16:56:30	GET	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:56:30	OPTIONS	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:56:27	GET	/products	http://localhost:3000
+24-03-2023 	 16:56:27	GET	/products	http://localhost:3000
+24-03-2023 	 16:56:17	GET	/user/profile	http://localhost:3000
+000
+24-03-2023 	 16:56:17	PUT	/user/profile-update	http://localhost:3000
+24-03-2023 	 16:55:54	GET	/user/profile	http://localhost:3000
+24-03-2023 	 16:55:54	GET	/user/profile	http://localhost:3000
+000
+24-03-2023 	 16:55:53	POST	/user/add	http://localhost:3000
+00
+24-03-2023 	 16:53:35	POST	/auth/user/login-with-google	http://localhost:3000
+24-03-2023 	 16:52:53	GET	/products	http://localhost:3000
+24-03-2023 	 16:52:52	GET	/products	http://localhost:3000
+24-03-2023 	 16:52:50	GET	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:52:50	GET	/products/single/64145ac5407921effba177b6	http://localhost:3000
+24-03-2023 	 16:52:38	GET	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:52:38	GET	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:52:29	OPTIONS	/cart/add-to-cart	http://localhost:3000
+24-03-2023 	 16:52:21	GET	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:52:21	GET	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:52:17	GET	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:52:17	GET	/cart/cart-history	http://localhost:3000
+000
+24-03-2023 	 16:52:12	OPTIONS	/cart/add-to-cart	http://localhost:3000
+24-03-2023 	 16:52:09	GET	/cart/cart-history	http://localhost:3000
+24-03-2023 	 16:52:09	GET	/products/single/64145ac5407921effba177b6	http://localhost:3000
+	http://localhost:3000
+000
+p://localhost:3000
+000
+00
+s/single/64145ac5407921effba177b6	http://localhost:3000
+	http://localhost:3000
+000
+p://localhost:3000
+000
+00
+alhost:3000
+000
+00
+
+00
+00
+00
+00
+00
+00
+
+00
+00
+00
+00
+00
+00
+ost:3000
+000
+00
+alhost:3000
+000
+00
+
+00
+00
+00
+00
+00
+00
+
+00
+00
+00
+00
+00
+00
